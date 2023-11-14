@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 ailgn = "center"> Hi there 👋, my name is Michael </h1>
 
-<!--
-**mishantique/mishantique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hackatons 2023
+<i class="fa-solid fa-code">Rosneft</i>
+<i class="fa-solid fa-code">Sovkombank</i>
+<i class="fa-solid fa-code">PGK-Digital</i>
 
-Here are some ideas to get you started:
+### I'm a frontend developer 
+- I love programming
+- I am learning new languages
+- I love kickboxing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools
+<i class="fa-solid fa-gears">Python</i>
+<i class="fa-solid fa-gears">HTML</i>
+<i class="fa-solid fa-gears">CSS</i>
+<i class="fa-solid fa-gears">JavaScript</i>
+
+
