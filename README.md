@@ -13,8 +13,14 @@
 
 - ⚡ Fun fact **I only found out how many bytes are in a bit when I was 17**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Achievements:</h3>
 <p align="left">
+  Competition background:
+  <ul>
+    <li>🏆 Rosneft RN Digital 2023</li>
+    <li>🏆 DataWagon Hackaton 2023</li>
+    <li>🏆 Sovcombank Challenge 2023</li>
+  </ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
