@@ -28,8 +28,9 @@
 <h3 align="left"> 👨‍🎓 Education:</h3>
 <p align="left">
   <ul>
-    <li>Bachelor's in Petroleum and Gas Engineering (Mining University) </li>
-    <li>Master's in Artificial Intelligence in Industry (ITMO University)</li>
+    <li>Bachelor's in Petroleum and Gas Engineering (Mining University) (2019-2023) </li>
+    <li>Data Analysis Technologies course (ITMO University) (2022-2023) </li>
+    <li>Master's in Artificial Intelligence in Industry (ITMO University)(2023-2025)</li>
   </ul>
 
 
