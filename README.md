@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
+
 <h3 align="center">Computer science student, Python developer from Saint P.</h3>
 
 - 🔭 I’m currently working on [A study on large language models. I am writing an article for:](https://kmu.itmo.ru/)
