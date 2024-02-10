@@ -1,5 +1,6 @@
-![](mario.gif)
 <h1 align="center">Hi 👋, I'm Michael</h1>
+
+![](mario.gif)
 
 <h3 align="center">Computer science student, Python developer from Saint P.</h3>
 
