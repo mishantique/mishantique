@@ -21,10 +21,10 @@
 <p align="left">
   🏆 Competition background:
   <ul>
-    <li> <a href = 'https://events.rn.digital/hack/it2023vuz'>Rosneft RN Digital 2023</a></li>
-    <li> <a href = 'https://www.хакатоны.рус/tpost/ycfxdngll1-ml-talentmatch'> ML TALENT MATCH </a></li>
-    <li> <a href = 'https://reg.datawagon.ru/todo'>DataWagon Hackaton 2023</a></li>
-    <li> <a href = 'https://codenrock.com/contests/adventure-league-spb#/tasks/1619'>Sovcombank Challenge 2023</a></li>
+    <li> <a href = 'https://www.хакатоны.рус/tpost/ycfxdngll1-ml-talentmatch'> ML </a> TALENT MATCH 2024 </li>
+    <li> <a href = 'https://events.rn.digital/hack/it2023vuz'>Rosneft</a> RN Digital 2023</li>
+    <li> <a href = 'https://reg.datawagon.ru/todo'>DataWagon</a> Hackaton 2023</li>
+    <li> <a href = 'https://codenrock.com/contests/adventure-league-spb#/tasks/1619'>Sovcombank</a> Challenge 2023</li>
   </ul>
 <h3 align="left"> 👨‍🎓 Education:</h3>
 <p align="left">
